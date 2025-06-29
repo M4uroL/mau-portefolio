@@ -37,5 +37,5 @@ Este é o meu portfólio profissional como estudante e futuro engenheiro de soft
 
 1. Clona este repositório:
    ```bash
-   git clone hhttps://m4urol.github.io/mau-portefolio/
+   git clone https://m4urol.github.io/mau-portefolio/
    cd portfolio
